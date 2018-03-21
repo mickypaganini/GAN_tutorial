@@ -1,6 +1,5 @@
 name: binder
 dependencies:
-  - python=2.7
   - pytorch
   - torchvision
   - matplotlib==2.0.2
