@@ -5,4 +5,4 @@ dependencies:
   - matplotlib==2.0.2
   - numpy==1.14.1
   - ipython==6.2.1
-  - scikit_learn==0.19.1
+  - scikit-learn==0.19.1
