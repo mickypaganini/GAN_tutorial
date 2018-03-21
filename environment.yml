@@ -1,6 +1,7 @@
 name: binder
 dependencies:
-  - pytorch-cpu torchvision -c pytorch
+  - pytorch-cpu
+  - torchvision
   - matplotlib==2.0.2
   - numpy==1.14.1
   - ipython==6.2.1
